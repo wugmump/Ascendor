@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<madrix_device_settings_dmx version="0x03000000" product_version="0x03050100">
+	<product>MADRIX v3.5a - 32 Bit (v3.5.1.0) compile Dec 11 2015 - (c)inoage GmbH</product>
+	<save_date>2016/04/29 19:17:26</save_date>
+	<dmx_device_settings version="0x03000000">
+		<!--DMX OUT/IN Device Settings with 4 DMX Devices-->
+		<dmx_device version="0x03000000" index="0">
+			<title value="ArtNet 0002 (manual 2, 10.0.0.2) Port:0 "/>
+			<universe value="1"/>
+			<activ value="1"/>
+			<in_out value="0"/>
+			<protocol value="1" info="Network Art-Net"/>
+			<frametime value="30"/>
+			<fullframes value="0"/>
+			<settings_artnet version="0x03000000">
+				<artnet_id value="2"/>
+				<artnet_id_bind_idx value="0"/>
+				<artnet_id_man value="23CAA957-D84E-4B19-82A4-E2B316A148F4"/>
+				<artnet_dev_type value="2"/>
+				<artnet_dev_enable_1 value="1"/>
+				<artnet_dev_enable_2 value="1"/>
+				<artnet_dev_enable_3 value="1"/>
+				<artnet_dev_enable_4 value="1"/>
+				<artnet_mac value="00:00:00:00:00:00"/>
+				<artnet_style value="0"/>
+				<artnet_major value="3"/>
+				<artnet_minor value="5"/>
+				<artnet_use_broadcast value="0"/>
+				<artnet_ip value="10.0.0.2"/>
+				<artnet_oem_code value="255"/>
+				<artnet_oem_manufacturer value="Artistic Licence Engineering Ltd"/>
+				<artnet_oem_product value="developer"/>
+				<artnet_esta_1 value="65"/>
+				<artnet_esta_2 value="73"/>
+				<artnet_config_by_web value="0"/>
+				<artnet_name_short value="ArtNet 0002"/>
+				<artnet_name_long value="ArtNet device nr 0002"/>
+				<artnet_port_numbers value="3"/>
+				<artnet_port_type_1 value="2" info="output"/>
+				<artnet_port_type_2 value="2" info="output"/>
+				<artnet_port_type_3 value="2" info="output"/>
+				<artnet_port_type_4 value="0" info="none"/>
+				<artnet_port_protocol_1 value="5"/>
+				<artnet_port_protocol_2 value="5"/>
+				<artnet_port_protocol_3 value="5"/>
+				<artnet_port_protocol_4 value="5"/>
+				<artnet_port_sub_net value="0"/>
+				<artnet_universe_in_1 value="0"/>
+				<artnet_universe_in_2 value="0"/>
+				<artnet_universe_in_3 value="0"/>
+				<artnet_universe_in_4 value="0"/>
+				<artnet_universe_out_1 value="1"/>
+				<artnet_universe_out_2 value="2"/>
+				<artnet_universe_out_3 value="3"/>
+				<artnet_universe_out_4 value="0"/>
+				<artnet_universe_virt_1 value="1"/>
+				<artnet_universe_virt_2 value="2"/>
+				<artnet_universe_virt_3 value="3"/>
+				<artnet_universe_virt_4 value="4"/>
+				<artnet_frame_time_1 value="30"/>
+				<artnet_frame_time_2 value="30"/>
+				<artnet_frame_time_3 value="30"/>
+				<artnet_frame_time_4 value="30"/>
+				<artnet_full_frames_1 value="0"/>
+				<artnet_full_frames_2 value="0"/>
+				<artnet_full_frames_3 value="0"/>
+				<artnet_full_frames_4 value="0"/>
+				<artnet_bind_ip value="0.0.0.0"/>
+			</settings_artnet>
+		</dmx_device>
+		<dmx_device version="0x03000000" index="1">
+			<title value="ArtNet 0002 (manual 2, 10.0.0.2) Port:1 "/>
+			<universe value="2"/>
+			<activ value="1"/>
+			<in_out value="0"/>
+			<protocol value="1" info="Network Art-Net"/>
+			<frametime value="30"/>
+			<fullframes value="0"/>
+			<settings_artnet version="0x03000000">
+				<artnet_id value="2"/>
+				<artnet_id_bind_idx value="0"/>
+				<artnet_id_man value="23CAA957-D84E-4B19-82A4-E2B316A148F4"/>
+				<artnet_dev_type value="2"/>
+				<artnet_dev_enable_1 value="1"/>
+				<artnet_dev_enable_2 value="1"/>
+				<artnet_dev_enable_3 value="1"/>
+				<artnet_dev_enable_4 value="1"/>
+				<artnet_mac value="00:00:00:00:00:00"/>
+				<artnet_style value="0"/>
+				<artnet_major value="3"/>
+				<artnet_minor value="5"/>
+				<artnet_use_broadcast value="0"/>
+				<artnet_ip value="10.0.0.2"/>
+				<artnet_oem_code value="255"/>
+				<artnet_oem_manufacturer value="Artistic Licence Engineering Ltd"/>
+				<artnet_oem_product value="developer"/>
+				<artnet_esta_1 value="65"/>
+				<artnet_esta_2 value="73"/>
+				<artnet_config_by_web value="0"/>
+				<artnet_name_short value="ArtNet 0002"/>
+				<artnet_name_long value="ArtNet device nr 0002"/>
+				<artnet_port_numbers value="3"/>
+				<artnet_port_type_1 value="2" info="output"/>
+				<artnet_port_type_2 value="2" info="output"/>
+				<artnet_port_type_3 value="2" info="output"/>
+				<artnet_port_type_4 value="0" info="none"/>
+				<artnet_port_protocol_1 value="5"/>
+				<artnet_port_protocol_2 value="5"/>
+				<artnet_port_protocol_3 value="5"/>
+				<artnet_port_protocol_4 value="5"/>
+				<artnet_port_sub_net value="0"/>
+				<artnet_universe_in_1 value="0"/>
+				<artnet_universe_in_2 value="0"/>
+				<artnet_universe_in_3 value="0"/>
+				<artnet_universe_in_4 value="0"/>
+				<artnet_universe_out_1 value="1"/>
+				<artnet_universe_out_2 value="2"/>
+				<artnet_universe_out_3 value="3"/>
+				<artnet_universe_out_4 value="0"/>
+				<artnet_universe_virt_1 value="1"/>
+				<artnet_universe_virt_2 value="2"/>
+				<artnet_universe_virt_3 value="3"/>
+				<artnet_universe_virt_4 value="4"/>
+				<artnet_frame_time_1 value="30"/>
+				<artnet_frame_time_2 value="30"/>
+				<artnet_frame_time_3 value="30"/>
+				<artnet_frame_time_4 value="30"/>
+				<artnet_full_frames_1 value="0"/>
+				<artnet_full_frames_2 value="0"/>
+				<artnet_full_frames_3 value="0"/>
+				<artnet_full_frames_4 value="0"/>
+				<artnet_bind_ip value="0.0.0.0"/>
+			</settings_artnet>
+		</dmx_device>
+		<dmx_device version="0x03000000" index="2">
+			<title value="ArtNet 0002 (manual 2, 10.0.0.2) Port:2 "/>
+			<universe value="3"/>
+			<activ value="1"/>
+			<in_out value="0"/>
+			<protocol value="1" info="Network Art-Net"/>
+			<frametime value="30"/>
+			<fullframes value="0"/>
+			<settings_artnet version="0x03000000">
+				<artnet_id value="2"/>
+				<artnet_id_bind_idx value="0"/>
+				<artnet_id_man value="23CAA957-D84E-4B19-82A4-E2B316A148F4"/>
+				<artnet_dev_type value="2"/>
+				<artnet_dev_enable_1 value="1"/>
+				<artnet_dev_enable_2 value="1"/>
+				<artnet_dev_enable_3 value="1"/>
+				<artnet_dev_enable_4 value="1"/>
+				<artnet_mac value="00:00:00:00:00:00"/>
+				<artnet_style value="0"/>
+				<artnet_major value="3"/>
+				<artnet_minor value="5"/>
+				<artnet_use_broadcast value="0"/>
+				<artnet_ip value="10.0.0.2"/>
+				<artnet_oem_code value="255"/>
+				<artnet_oem_manufacturer value="Artistic Licence Engineering Ltd"/>
+				<artnet_oem_product value="developer"/>
+				<artnet_esta_1 value="65"/>
+				<artnet_esta_2 value="73"/>
+				<artnet_config_by_web value="0"/>
+				<artnet_name_short value="ArtNet 0002"/>
+				<artnet_name_long value="ArtNet device nr 0002"/>
+				<artnet_port_numbers value="3"/>
+				<artnet_port_type_1 value="2" info="output"/>
+				<artnet_port_type_2 value="2" info="output"/>
+				<artnet_port_type_3 value="2" info="output"/>
+				<artnet_port_type_4 value="0" info="none"/>
+				<artnet_port_protocol_1 value="5"/>
+				<artnet_port_protocol_2 value="5"/>
+				<artnet_port_protocol_3 value="5"/>
+				<artnet_port_protocol_4 value="5"/>
+				<artnet_port_sub_net value="0"/>
+				<artnet_universe_in_1 value="0"/>
+				<artnet_universe_in_2 value="0"/>
+				<artnet_universe_in_3 value="0"/>
+				<artnet_universe_in_4 value="0"/>
+				<artnet_universe_out_1 value="1"/>
+				<artnet_universe_out_2 value="2"/>
+				<artnet_universe_out_3 value="3"/>
+				<artnet_universe_out_4 value="0"/>
+				<artnet_universe_virt_1 value="1"/>
+				<artnet_universe_virt_2 value="2"/>
+				<artnet_universe_virt_3 value="3"/>
+				<artnet_universe_virt_4 value="4"/>
+				<artnet_frame_time_1 value="30"/>
+				<artnet_frame_time_2 value="30"/>
+				<artnet_frame_time_3 value="30"/>
+				<artnet_frame_time_4 value="30"/>
+				<artnet_full_frames_1 value="0"/>
+				<artnet_full_frames_2 value="0"/>
+				<artnet_full_frames_3 value="0"/>
+				<artnet_full_frames_4 value="0"/>
+				<artnet_bind_ip value="0.0.0.0"/>
+			</settings_artnet>
+		</dmx_device>
+		<dmx_device version="0x03000000" index="3">
+			<title value="ArtNet Remote (MADRIX) Port:0 "/>
+			<universe value="1"/>
+			<activ value="0"/>
+			<in_out value="1"/>
+			<protocol value="1" info="Network Art-Net"/>
+			<frametime value="30"/>
+			<fullframes value="0"/>
+			<settings_artnet version="0x03000000">
+				<artnet_id value="0"/>
+				<artnet_id_bind_idx value="0"/>
+				<artnet_id_man value="00000000-0000-0000-0000-000000000000"/>
+				<artnet_dev_type value="3"/>
+				<artnet_dev_enable_1 value="0"/>
+				<artnet_dev_enable_2 value="0"/>
+				<artnet_dev_enable_3 value="0"/>
+				<artnet_dev_enable_4 value="0"/>
+				<artnet_mac value="00:23:24:AA:64:17"/>
+				<artnet_style value="0"/>
+				<artnet_major value="3"/>
+				<artnet_minor value="5"/>
+				<artnet_use_broadcast value="0"/>
+				<artnet_ip value="10.0.0.1"/>
+				<artnet_oem_code value="1220"/>
+				<artnet_oem_manufacturer value="inoage"/>
+				<artnet_oem_product value="MADRIX3"/>
+				<artnet_esta_1 value="65"/>
+				<artnet_esta_2 value="73"/>
+				<artnet_config_by_web value="0"/>
+				<artnet_name_short value="ArtNet Remote"/>
+				<artnet_name_long value="ArtNet Remote, to remote control MADRIX via ArtNet"/>
+				<artnet_port_numbers value="1"/>
+				<artnet_port_type_1 value="2" info="output"/>
+				<artnet_port_type_2 value="0" info="none"/>
+				<artnet_port_type_3 value="0" info="none"/>
+				<artnet_port_type_4 value="0" info="none"/>
+				<artnet_port_protocol_1 value="5"/>
+				<artnet_port_protocol_2 value="5"/>
+				<artnet_port_protocol_3 value="5"/>
+				<artnet_port_protocol_4 value="5"/>
+				<artnet_port_sub_net value="0"/>
+				<artnet_universe_in_1 value="0"/>
+				<artnet_universe_in_2 value="0"/>
+				<artnet_universe_in_3 value="0"/>
+				<artnet_universe_in_4 value="0"/>
+				<artnet_universe_out_1 value="0"/>
+				<artnet_universe_out_2 value="1"/>
+				<artnet_universe_out_3 value="2"/>
+				<artnet_universe_out_4 value="3"/>
+				<artnet_universe_virt_1 value="1"/>
+				<artnet_universe_virt_2 value="2"/>
+				<artnet_universe_virt_3 value="3"/>
+				<artnet_universe_virt_4 value="4"/>
+				<artnet_frame_time_1 value="30"/>
+				<artnet_frame_time_2 value="30"/>
+				<artnet_frame_time_3 value="30"/>
+				<artnet_frame_time_4 value="30"/>
+				<artnet_full_frames_1 value="0"/>
+				<artnet_full_frames_2 value="0"/>
+				<artnet_full_frames_3 value="0"/>
+				<artnet_full_frames_4 value="0"/>
+				<artnet_bind_ip value="0.0.0.0"/>
+			</settings_artnet>
+		</dmx_device>
+		<!--DMX IN Device Settings with 0 DMX Devices-->
+	</dmx_device_settings>
+</madrix_device_settings_dmx>
